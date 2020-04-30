@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup as bs
 from splinter import Browser
 import pandas as pd
 
+
 ## Latest news to scrape
 # URL for page to be scraped
 url = 'https://mars.nasa.gov/news/'
